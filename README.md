@@ -30,7 +30,7 @@ Full CFG/DFG, scheduling, binding, and FPGA results are in `docs/report.pdf`.
 rtl/          fft_top, fft_controller, fft_datapath, fft_clk_div
 testbenchs/   tb_fft_top.sv — 5 test vectors (w^0, w^1, w^2, signed inputs)
 quartus/      fft_top.qsf, fft_top.sdc (Cyclone V 5CSEMA5F31C6)
-docs/         coursework instructions + full report
+docs/          full report
 ```
 
 ## Usage
