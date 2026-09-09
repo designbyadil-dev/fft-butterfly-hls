@@ -1,0 +1,34 @@
+# --- Quartus ---
+*.qws
+db/
+incremental_db/
+output_files/
+greybox_tmp/
+*.rpt
+*.summary
+*.smsg
+*.pin
+*.sof
+*.pof
+*.jdi
+*.done
+*.qarlog
+*.qws.bak
+
+# --- ModelSim / Questa ---
+work/
+transcript
+*.wlf
+*.vstf
+vsim.wlf
+modelsim.ini
+
+# --- Icarus Verilog ---
+*.vvp
+*.vcd
+
+# --- OS / editor cruft ---
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
